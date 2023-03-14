@@ -1,0 +1,48 @@
+/* product section */
+.container__product {
+    margin: 75px;
+}
+
+#product__id {
+    margin: 0px 0px 5px 49px;
+    padding: 5px;
+
+}
+
+#product__name {
+    margin: 0px 0px 5px 24px;
+    padding: 5px;
+
+}
+
+#product__price {
+    margin: 0px 0px 5px 28px;
+    padding: 5px;
+
+}
+
+/* btn */
+button {
+    margin: 0px 0px 0px 70px;
+    background-color: white;
+    padding: 15px 70px 15px 40px;
+    border: 2px solid black;
+
+}
+
+/* table section */
+.container__table {
+    margin: 60px 0px 0px 70px;
+}
+
+table{
+    margin-left: 70px;
+}
+
+table th {
+    padding: 0px 131px 0px 0px;
+}
+
+#items{
+    text-align: left;
+}
